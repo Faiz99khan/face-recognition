@@ -13,6 +13,13 @@ attendance system and in other real time application by making some modification
 ### - real-time
 ![](prediction/test_realtime.gif)
 
+It shows some lags because my laptop has low configuration.
+
+## working
+First we make dataset by collecting around 15-25 solo photos of each person in different pose,size and lighting conditon.Then,then we extract face from all these photos by using **MTCNN library**.After that,these faces convert into embeddings representation by using state of the art **Facenet-Keras model**.Finally,we run **SVM classifier** to clasify these embeddings into  different persons class.
+
+If we want add new person in future, we can easily done by following same procedure as above for 1 person.
+
 ## Dependency
  click [here](requirements.txt) to show dependencies 
  
