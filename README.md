@@ -1,7 +1,5 @@
-# real-time-face-recognition
-It recognize face at real time as well as in image with very good accuracy.Now,it is built on small database,database consist of 8 people(5 
-bollywood actors,2 my brother and me),but it can extend easily on large no. of people.It can be used in employee attendance system,student 
-attendance system and in other real time application by making some modification in it.
+# Face Recognition
+It recognizes face at real time as well as in image with very good accuracy. Now, it is built on small database, database consist of 8 people(5 bollywood actors,2 my brother and me), but it can extend easily on large no. of people. It can be used in employee attendance system, student attendance system, and in other related applications by making some modification in it.
 
 ## test model
 ### - image
