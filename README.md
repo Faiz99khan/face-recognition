@@ -14,9 +14,9 @@ It recognizes face at real time as well as in image with very good accuracy. Now
 It shows some lags because my laptop has low configuration.
 
 ## working
-First we make dataset by collecting around 15-25 solo photos of each person in different pose,size and lighting conditon.Then,then we extract face from all these photos by using **MTCNN library**.After that,these faces convert into embeddings representation by using state of the art **Facenet-Keras model**.Finally,we run **SVM classifier** to clasify these embeddings into  different persons class.
+First, The dataset is created by collecting around 15-25 solo photos of each person in different pose, orientation and lighting conditon.Then, faces are extracted from all these photos by using **MTCNN library**. After that, these face images convert into embeddings representation by using state of the art **Facenet-Keras model**. Finally, we run **SVM classifier** to clasify these embeddings into  different persons class.
 
-If we want add new person in future, we can easily done by following same procedure as above for 1 person.
+If we want to add new person in the database in future, we can easily done it by following same procedure as above for 1 person.
 
 ## Dependency
  click [here](requirements.txt) to show dependencies 
