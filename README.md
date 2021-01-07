@@ -1,5 +1,5 @@
 # Face Recognition
-It recognizes face at real time as well as in image with very good accuracy. It consist of FaceNet deep learning model and SVM statistical model.  Now, it is built on small database, database consists of 8 people(5 bollywood actors, 2 my brothers and me), but it can be extended easily on large no. of people. It can be used in attendance system, person tagging in the photo and in other related applications by making some modification in it.
+It recognizes face at real time as well as in image with very good accuracy. It consists of FaceNet deep learning model and SVM statistical model.  Now, it is built on small database, database consists of 8 people(5 bollywood actors, 2 my brothers and me), but it can be extended easily on large no. of people. It can be used in attendance system, person tagging in the photo and in other related applications by making some modification in it.
 
 ## test model
 ### - image
